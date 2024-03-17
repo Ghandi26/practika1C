@@ -1,0 +1,14 @@
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\bin\Debug\net6.0\Pr3.exe
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\bin\Debug\net6.0\Pr3.deps.json
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\bin\Debug\net6.0\Pr3.runtimeconfig.json
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\bin\Debug\net6.0\Pr3.dll
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\bin\Debug\net6.0\Pr3.pdb
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\Pr3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\Pr3.AssemblyInfoInputs.cache
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\Pr3.AssemblyInfo.cs
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\Pr3.csproj.CoreCompileInputs.cache
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\Pr3.dll
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\refint\Pr3.dll
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\Pr3.pdb
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\Pr3.genruntimeconfig.cache
+D:\.image\ПРАКТИКА\PraktikaGit\Pr3\Pr3\obj\Debug\net6.0\ref\Pr3.dll
